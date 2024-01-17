@@ -1,0 +1,14 @@
+{
+  "name": "Navigation",
+  "version": "1.0.0",
+  "dependencies": {
+    "Array": [1.0,2,3.5],
+    "Number": 123,
+    "Boolean": true,
+    "Null": null
+  },
+  "Array": [1.0,2,3.5],
+  "Number": 123,
+  "Boolean": true,
+  "Null": null
+}
